@@ -6,14 +6,10 @@
  📓 **노트북**: (Colab 링크)
 
 ## 👥 팀원 소개
-| 이름 | 역할 |
-| --- | --- |
-| 팀원1 | 팀장 · 프로젝트 기획 및 발표 |
-| 팀원2 | 데이터 수집 및 전처리 |
-| 팀원3 | 이탈 고객 특성 분석(EDA) |
-| 팀원4 | 머신러닝 모델링 |
-| 팀원5 | 딥러닝 모델링 및 튜닝 |
-| 팀원6 | Streamlit 대시보드 개발 |
+
+| 팀원1 | 팀원2 | 팀원3 | 팀원4 | 팀원5 | 팀원6 |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| <img src="images/team/member1.jpg" width="110" height="140"> | <img src="images/team/member2.jpg" width="110" height="140"> | <img src="images/team/member3.jpg" width="110" height="140"> | <img src="images/team/member4.jpg" width="110" height="140"> | <img src="images/team/member5.jpg" width="110" height="140"> | <img src="images/team/member6.jpg" width="110" height="140"> |
 ## 🎯 핵심 결과
 - 이탈 핵심 요인: (예) 멤버십 등급, 포인트, 피드백
 - 최종 모델: (모델명), Test ROC-AUC (값), F1 (값), train-test 격차 (값)
