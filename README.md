@@ -125,8 +125,8 @@
 - 비즈니스 인사이트와 제안
 
 ## 6. Streamlit 웹사이트
-- 페이지별 설명과 캡처
-  🔗 **데모**:<br> (Streamlit 링크https://github.com/user-attachments/assets/4043fc17-cd72-482e-bf20-d71b68677dad)  
+- 페이지별 설명과 캡처<br>
+  🔗 **데모**: (Streamlit 링크https://github.com/user-attachments/assets/4043fc17-cd72-482e-bf20-d71b68677dad)  
 - 실행 방법
 
 ## 7. 한계와 개선 방향
