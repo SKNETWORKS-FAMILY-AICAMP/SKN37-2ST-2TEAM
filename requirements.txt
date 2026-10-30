@@ -1,0 +1,6 @@
+streamlit>=1.49.0
+pandas>=2.2.0
+numpy>=1.26.0
+scikit-learn>=1.5.0
+joblib>=1.4.0
+torch>=2.2
