@@ -94,8 +94,6 @@
 
 
 
-### 3-2. 변수 조합 비교 (버전1 vs 버전2)
-
 ## 4. 모델링
 - 사용 모델: Keras MLP
 - 사용한 변수:<br>고객 멤버십(membership_category), 포인트(points_in_wallet),평균 거래금액(avg_transaction_value)
