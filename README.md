@@ -5,11 +5,14 @@
 
  📓 **노트북**: (Colab 링크)
 
+
 ## 👥 팀원 소개
 
-| 팀원1 | 팀원2 | 팀원3 | 팀원4 | 팀원5 | 팀원6 |
+| 전윤호 | 이승훈 | 신지호 | 문진호 | 김지원 | 김보영 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="images/team/member1.jpg" width="110" height="140"> | <img src="images/team/member2.jpg" width="110" height="140"> | <img src="images/team/member3.jpg" width="110" height="140"> | <img src="images/team/member4.jpg" width="110" height="140"> | <img src="images/team/member5.jpg" width="110" height="140"> | <img src="images/team/member6.jpg" width="110" height="140"> |
+| <img src="https://github.com/user-attachments/assets/46d9cec5-3aa2-4f30-9154-644edad9ccfe" alt="전윤호" width="110" height="140"> | <img src="https://github.com/user-attachments/assets/c7a442ab-13b1-4a8f-a0d0-32143ed21f7f" alt="이승훈" width="110" height="140"> | <img src="https://github.com/user-attachments/assets/5165d87d-0818-4f3c-abba-d284bf303345" alt="신지호" width="110" height="140"> | <img src="https://github.com/user-attachments/assets/6688888a-d473-47c7-8b45-1325829ac953" alt="문진호" width="110" height="140"> | <img src="https://github.com/user-attachments/assets/e55e5330-7696-42a9-80ed-60c4fa2a38a2" alt="김지원" width="110" height="140"> |<img width="110" height="140" alt="image" src="https://github.com/user-attachments/assets/0bc195a2-4462-4b50-9b5c-f9e36ed5dd85" /> |
+
+
 ## 🎯 핵심 결과
 - 이탈 핵심 요인: (예) 멤버십 등급, 포인트, 피드백
 - 최종 모델: (모델명), Test ROC-AUC (값), F1 (값), train-test 격차 (값)
