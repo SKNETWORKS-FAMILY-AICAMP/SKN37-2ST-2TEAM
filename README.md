@@ -3,7 +3,7 @@
 
 > 한 줄 소개: (예) 멤버십 고객 데이터를 분석해 이탈 위험 고객을 예측하고, 실무자가 쓸 수 있는 대시보드로 구현한 프로젝트
 
-🔗 **데모**: (Streamlit 링크)  |  📓 **노트북**: (Colab 링크)
+ 📓 **노트북**: (Colab 링크)
 
 ![앱 스크린샷](images/app_main.png)
 ## 👥 팀원 소개
@@ -126,6 +126,7 @@
 
 ## 6. Streamlit 앱
 - 페이지별 설명과 캡처
+  🔗 **데모**: (Streamlit 링크https://github.com/user-attachments/assets/4043fc17-cd72-482e-bf20-d71b68677dad)  
 - 실행 방법
 
 ## 7. 한계와 개선 방향
