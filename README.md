@@ -9,7 +9,7 @@
 
 | 전윤호 | 이승훈 | 신지호 | 문진호 | 김지원 | 김보영 |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/46d9cec5-3aa2-4f30-9154-644edad9ccfe" alt="전윤호" width="110" height="140"> | <img src="https://github.com/user-attachments/assets/c7a442ab-13b1-4a8f-a0d0-32143ed21f7f" alt="이승훈" width="110" height="140"> | <img src="https://github.com/user-attachments/assets/5165d87d-0818-4f3c-abba-d284bf303345" alt="신지호" width="110" height="140"> | <img src="https://github.com/user-attachments/assets/6688888a-d473-47c7-8b45-1325829ac953" alt="문진호" width="110" height="140"> | <img width="110"  alt="김지원" src="https://github.com/user-attachments/assets/588a22aa-792f-46a6-a6b2-cf607155ba8d">|<img width="110"  alt="김보영" src="https://github.com/user-attachments/assets/0bc195a2-4462-4b50-9b5c-f9e36ed5dd85"> |
+| <img src="https://github.com/user-attachments/assets/46d9cec5-3aa2-4f30-9154-644edad9ccfe" alt="전윤호" width="110" height="110"> | <img src="https://github.com/user-attachments/assets/c7a442ab-13b1-4a8f-a0d0-32143ed21f7f" alt="이승훈" width="110" height="110"> | <img src="https://github.com/user-attachments/assets/5165d87d-0818-4f3c-abba-d284bf303345" alt="신지호" width="110" height="110"> | <img src="https://github.com/user-attachments/assets/6688888a-d473-47c7-8b45-1325829ac953" alt="문진호" width="110" height="110"> | <img width="110" height="110" alt="김지원" src="https://github.com/user-attachments/assets/588a22aa-792f-46a6-a6b2-cf607155ba8d">|<img width="110"  height="110" alt="김보영" src="https://github.com/user-attachments/assets/0bc195a2-4462-4b50-9b5c-f9e36ed5dd85"> |
 
 
 ## 🎯 핵심 결과
