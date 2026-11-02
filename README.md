@@ -203,22 +203,8 @@ ShopInsight는 고객의 이용 특성과 회원 정보를 분석하여 이탈 �
 
 궁극적으로 고객의 이탈을 예측하는 수준을 넘어, 고객별 맞춤형 관리 방안까지 제안할 수 있는 실질적인 비즈니스 솔루션으로 발전시키는 것이 목표다.
 
-## 8. 프로젝트 구조와 실행 방법
-```
-churn_app/
-├─ Home.py
-├─ pages/
-├─ models/
-├─ notebooks/
-├─ images/
-└─ requirements.txt
-```
-```bash
-pip install -r requirements.txt
-streamlit run Home.py
-```
 
-## 9. 소감
+## 8. 소감
 <table>
   <thead>
     <tr>
