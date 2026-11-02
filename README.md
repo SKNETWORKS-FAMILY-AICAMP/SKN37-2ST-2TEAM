@@ -211,7 +211,13 @@ ShopInsight는 고객의 이용 특성과 회원 정보를 분석하여 이탈 �
 궁극적으로 고객의 이탈을 예측하는 수준을 넘어, 고객별 맞춤형 관리 방안까지 제안할 수 있는 실질적인 비즈니스 솔루션으로 발전시키는 것이 목표다.
 
 
-## 8. 소감
+## 8. 결과 보고서
+[2팀_AI_데이터_전처리_결과서.pdf](https://github.com/user-attachments/files/34258183/2._AI_._._.pdf)
+<br>
+[2팀_인공지능_학습_결과서.pdf](https://github.com/user-attachments/files/34258177/2._._._.pdf)
+
+
+## 9. 소감
 <table>
   <thead>
     <tr>
