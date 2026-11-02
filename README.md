@@ -70,10 +70,6 @@
 #### 수치형 컬럼 분포
 <img width="2400" height="960" alt="02_numeric_distribution" src="https://github.com/user-attachments/assets/4a9d4324-7c8d-413f-9589-aa112e10ec2a" />
 
-회원의 나이(age), 마지막 로그인 후 경과일(days_since_last_login), 평균 이용 시간(avg_time_spent), 
-가입 후 경과일(tenure_days), 방문 시간대(visit_hour): 
-- 고객 이탈 여부가 분포에 영향을 미치지 않음
-
 
 평균 거래 금액(avg_transaction_value):
 - 이탈한 고객(1)의 비율이 이탈하지 않은 고객보다 0-6000 사이의 값에서 더 높음  
@@ -86,6 +82,10 @@
 
 보유 포인트(points_in_wallet):
 - 이탈한 고객(1)의 보유 포인트(points_in_wallet)이 이탈하지 않은 고객(0)보다 중앙값과 최빈값이 작음.
+
+<br>
+회원의 나이(age), 마지막 로그인 후 경과일(days_since_last_login), 평균 이용 시간(avg_time_spent), 
+가입 후 경과일(tenure_days), 방문 시간대(visit_hour) 컬럼들은 고객 이탈 여부가 분포에 유의미하게 영향을 미치지 않는다.
 
 #### 수치형 변수들끼리의 상관 분석(heatmap)
 <img width="965" height="884" alt="image" src="https://github.com/user-attachments/assets/fed597cd-e005-4432-b951-54c964318d17" />
