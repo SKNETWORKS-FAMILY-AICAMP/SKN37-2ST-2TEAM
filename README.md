@@ -103,7 +103,7 @@
 
 
 ## 4. 모델링
-- 사용 모델: Keras MLP
+- 사용 모델: PyTorch MLP
 - 사용한 변수:<br>고객 멤버십(membership_category), 포인트(points_in_wallet),평균 거래금액(avg_transaction_value)
 - 사용한 파생 변수: <br> 피드백 그룹(feedback_group): 범주형 변수 feedback 값들을 <br>긍정(Products always in Stock, Quality Customer Care, Reasonable Price, User Friendly Website), <br>부정(Poor Product Quality, Poor Customer Service, Poor Website, Too many ads), <br>없음(No reason specified) 범주로 묶음
 
