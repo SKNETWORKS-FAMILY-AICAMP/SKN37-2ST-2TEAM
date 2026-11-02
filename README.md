@@ -118,7 +118,7 @@ eMarketer의 2025년 전망에 따르면 전 세계 소매판매에서 이커머
 #### 수치형 변수들끼리의 상관 분석(heatmap)
 <img width="965" height="884" alt="image" src="https://github.com/user-attachments/assets/fed597cd-e005-4432-b951-54c964318d17" />
 
-수치형 변수들 간의 상관성은 미미한 수준이므로 다중공산성을 걱정할 필요가 없다.
+수치형 변수들 간의 상관성은 미미한 수준이므로 다중공선성을 걱정할 필요가 없다.
 
 # 범주형 고객 분포
 <img width="2190" height="1790" alt="image" src="https://github.com/user-attachments/assets/ff386552-cf15-4770-b380-998c9dfcd447" />
@@ -174,7 +174,7 @@ eMarketer의 2025년 전망에 따르면 전 세계 소매판매에서 이커머
   🔗 **데모**: (Streamlit 링크https://github.com/user-attachments/assets/4043fc17-cd72-482e-bf20-d71b68677dad)  
 
 
-## 7. 한계와 개선 방향
+## 7. 기대 효와 개선 방향
 ### 기대 효과
 ShopInsight는 고객의 이용 특성과 회원 정보를 분석하여 이탈 위험을 예측하고, 기업의 고객 관리와 의사결정을 지원하는 것을 목표로 한다.
 
