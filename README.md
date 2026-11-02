@@ -124,6 +124,23 @@
 
 ## 6. Streamlit 웹사이트
 - 페이지별 설명과 캡처<br>
+<h3><핵심지표 페이지></h3>
+<img width="900"  alt="image" src="https://github.com/user-attachments/assets/fe6802d2-632b-433a-88ba-e2094ddd4f0a" />
+<br>
+<h3><고객 이탈 예측 페이지></h3> 
+<img width="900"  alt="image" src="https://github.com/user-attachments/assets/9f0ebff2-aa95-4412-9154-34a3f25a1dfa" />
+ <br>
+ <h3><이탈 원인 분석 페이지></h3>
+<img width="900"  alt="image" src="https://github.com/user-attachments/assets/4c25e43e-828d-493a-85ed-f854aac7fca7" />
+ <br>
+<h3><모델 성능 페이지></h3>
+<img width="900"  alt="image" src="https://github.com/user-attachments/assets/ef25bacf-d6cf-40c1-9b46-df4197d5b96d" />
+<br>
+
+
+
+
+
   🔗 **데모**: (Streamlit 링크https://github.com/user-attachments/assets/4043fc17-cd72-482e-bf20-d71b68677dad)  
 - 실행 방법
 
