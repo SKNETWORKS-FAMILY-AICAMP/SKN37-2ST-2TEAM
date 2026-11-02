@@ -171,7 +171,13 @@ eMarketer의 2025년 전망에 따르면 전 세계 소매판매에서 이커머
 <img width="900"  alt="image" src="https://github.com/user-attachments/assets/ef25bacf-d6cf-40c1-9b46-df4197d5b96d" />
 <br>
 <br>
+<h3><시연 영상></h3>
   🔗 **데모**: (Streamlit 링크https://github.com/user-attachments/assets/4043fc17-cd72-482e-bf20-d71b68677dad)  
+
+
+
+https://github.com/user-attachments/assets/37f60f21-b2a1-4fe0-ab80-169ccf7000ac
+
 
 
 ## 7. 기대 효와 개선 방향
