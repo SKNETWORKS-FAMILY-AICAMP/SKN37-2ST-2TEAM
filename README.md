@@ -180,7 +180,7 @@ https://github.com/user-attachments/assets/37f60f21-b2a1-4fe0-ab80-169ccf7000ac
 
 
 
-## 7. 기대 효와 개선 방향
+## 7. 기대 효과와 개선 방향
 ### 기대 효과
 ShopInsight는 고객의 이용 특성과 회원 정보를 분석하여 이탈 위험을 예측하고, 기업의 고객 관리와 의사결정을 지원하는 것을 목표로 한다.
 
