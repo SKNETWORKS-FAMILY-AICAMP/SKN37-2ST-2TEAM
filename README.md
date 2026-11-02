@@ -147,7 +147,7 @@ eMarketer의 2025년 전망에 따르면 전 세계 소매판매에서 이커머
 - 비즈니스 인사이트와 제안
 
 ## 6. Streamlit 웹사이트
-- 페이지별 설명과 캡처<br>
+
 <h3><핵심지표 페이지></h3>
 <img width="900"  alt="image" src="https://github.com/user-attachments/assets/fe6802d2-632b-433a-88ba-e2094ddd4f0a" />
 <br>
@@ -160,11 +160,7 @@ eMarketer의 2025년 전망에 따르면 전 세계 소매판매에서 이커머
 <h3><모델 성능 페이지></h3>
 <img width="900"  alt="image" src="https://github.com/user-attachments/assets/ef25bacf-d6cf-40c1-9b46-df4197d5b96d" />
 <br>
-
-
-
-
-
+<br>
   🔗 **데모**: (Streamlit 링크https://github.com/user-attachments/assets/4043fc17-cd72-482e-bf20-d71b68677dad)  
 
 
